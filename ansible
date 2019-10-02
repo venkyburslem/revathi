@@ -1,0 +1,4 @@
+it is a configuration management tool
+it is an agentless tool
+using ssh it will connect to remote nodes
+from remote server it can configure multiple nodes
