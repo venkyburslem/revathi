@@ -1,0 +1,3 @@
+It is used to build to source code
+In pom.xml every parameter is defined in the project
+after receiveing the source code from git maven build the code
